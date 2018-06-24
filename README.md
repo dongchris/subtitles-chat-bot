@@ -10,7 +10,7 @@ Simply run `download_subtitles.sh`.
 
 Sample input is shown below.
 
-(bash_script_example.png)
+<img src="bash_script_example.png">
 
 ## Video Recommendation
 
@@ -26,7 +26,7 @@ TODO
 
 Example of downloading subtitles
 
-(scrape_screenshot.png)
+<img src="scrape_screenshot.png">
 
 ## Notes
 
