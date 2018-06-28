@@ -20,7 +20,9 @@ It will use cosine similarity on the subtitle text and recommend you the closest
 
 ## Chatbot Trained on Subtitles
 
-TODO
+Prototype -- doesn't work that well (may be due to training data quality)
+
+<img src="chatbot_example.png">
 
 ## Appendix
 
@@ -39,5 +41,10 @@ https://developers.google.com/youtube/v3/getting-started
 - urls{2}: consists of url links stored in text file, one url per line
 - subtitlefiles{2}: consists of raw subtitle files
 - obj: consists of pickle files (dictionary object consisting of video name and the corresponding subtitle text)
+- `chatbot.ipynb`: simple chatbot implementation
+- `chatbot_data.txt`: 
+- `scattertext-viz.{html,pynb}`: visualization of words from scattertext package
+- `sentiment_analysis{-video 2 optional}.ipynb` : looking at sentiment of each video
+- `summarize-video`.ipynb: summarizing the contents of video from subtitles
 
 
