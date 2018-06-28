@@ -40,11 +40,13 @@ https://developers.google.com/youtube/v3/getting-started
 - `word_embedding{-video2 optional}.ipynb`: Use GloVe embeddings to recommend similar videos
 - `urls{2}`: consists of url links stored in text file, one url per line
 - `subtitlefiles{2}`: consists of raw subtitle files
-- `obj`: consists of pickle files (dictionary object consisting of video name and the corresponding subtitle text)
+- `obj/`: consists of pickle files (dictionary object consisting of video name and the corresponding subtitle text)
 - `chatbot.ipynb`: simple chatbot implementation
-- `chatbot_data.txt`: 
 - `scattertext-viz.{html,pynb}`: visualization of words from scattertext package
 - `sentiment_analysis{-video 2 optional}.ipynb` : looking at sentiment of each video
 - `summarize-video`.ipynb: summarizing the contents of video from subtitles
 
+## Slides
+
+https://docs.google.com/presentation/d/1ppQRTvqhc5ZmPIKdCvLPnQWMcUfSZiQZ1fTdWdvalZY/edit?usp=sharing
 
