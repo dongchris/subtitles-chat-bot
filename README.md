@@ -38,9 +38,9 @@ https://developers.google.com/youtube/v3/getting-started
 - `scrape_youtube_url.py`: Retrieves YouTube urls for a given user/channel
 - `subtitle_processing{-video2 optional}.ipynb`: Clean subtitle text and save to pickle file
 - `word_embedding{-video2 optional}.ipynb`: Use GloVe embeddings to recommend similar videos
-- urls{2}: consists of url links stored in text file, one url per line
-- subtitlefiles{2}: consists of raw subtitle files
-- obj: consists of pickle files (dictionary object consisting of video name and the corresponding subtitle text)
+- `urls{2}`: consists of url links stored in text file, one url per line
+- `subtitlefiles{2}`: consists of raw subtitle files
+- `obj`: consists of pickle files (dictionary object consisting of video name and the corresponding subtitle text)
 - `chatbot.ipynb`: simple chatbot implementation
 - `chatbot_data.txt`: 
 - `scattertext-viz.{html,pynb}`: visualization of words from scattertext package
