@@ -48,5 +48,4 @@ https://developers.google.com/youtube/v3/getting-started
 
 ## Slides
 
-https://docs.google.com/presentation/d/1ppQRTvqhc5ZmPIKdCvLPnQWMcUfSZiQZ1fTdWdvalZY/edit?usp=sharing
-
+See `slides.pdf`
